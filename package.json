@@ -4,7 +4,7 @@
   "displayName": "IntelliJ IDEA New UI",
   "description": "VSCode theme emulating IntelliJ IDEA new UI theme",
   "icon": "images/intellij-idea-256.png",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "engines": {
     "vscode": "^1.75.0"
   },
