@@ -34,10 +34,10 @@
       }
     ]
   },
-  "keywords": ["jetbrains","intellij","idea","light","new"],
-  "homepage": "https://github.com/compassak/vscode-intellij-new-ui-theme/blob/main/README.md",
+  "keywords": ["jetbrains","intellij","idea","light","dark","light-header","new","theme"],
+  "homepage": "https://github.com/compassak/vscode-intellij-idea-new-ui/blob/main/README.md",
   "repository": {
     "type": "github",
-    "url": "https://github.com/compassak/vscode-intellij-new-ui-theme.git"
+    "url": "https://github.com/compassak/vscode-intellij-idea-new-ui.git"
   }
 }
