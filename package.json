@@ -1,0 +1,43 @@
+{
+  "name": "intellij-idea-new-ui",
+  "publisher": "compassak",
+  "displayName": "IntelliJ IDEA New UI",
+  "description": "VSCode theme emulating IntelliJ IDEA new UI theme",
+  "icon": "images/intellij-idea-256.png",
+  "version": "1.1.0",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "galleryBanner": {
+    "color": "#F7F8FA",
+    "theme": "light"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "IntelliJ IDEA New UI Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/intellij-new-ui-dark.json"
+      },
+      {
+        "label": "IntelliJ IDEA New UI Light",
+        "uiTheme": "vs",
+        "path": "./themes/intellij-new-ui-light.json"
+      },
+      {
+        "label": "IntelliJ IDEA New UI Light with Light Header",
+        "uiTheme": "vs",
+        "path": "./themes/intellij-new-ui-light-with-light-header.json"
+      }
+    ]
+  },
+  "keywords": ["jetbrains","intellij","idea","light","new"],
+  "homepage": "https://github.com/compassak/vscode-intellij-new-ui-theme/blob/main/README.md",
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/compassak/vscode-intellij-new-ui-theme.git"
+  }
+}
